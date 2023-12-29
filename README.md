@@ -1,17 +1,24 @@
-### Hi there 👋
 
-<!--
-**ShivKSF/ShivKSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Kaique!;" />
+</h1>
 
-Here are some ideas to get you started:
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ShivKSF&theme=synthwave&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-ShivKSF.vercel.app/api/top-langs/?username=ShivKSF&show_icons=true&theme=synthwave&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snake gif](https://github.com/ShivKSF/ShivKSF/blob/output/github-contribution-grid-snake.svg)
+<div  align="center" >
+## Sempre em busca de conhecimento
+
+#### Habilidades:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,py,bootstrap,sass,mysql,nodejs)](https://skillicons.dev)
+  <br>
+
+</div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Licença,+agora+é+hora+do+café.;:coffee:+:coffee:+:coffee:;" />
+</h1>
+
+
+

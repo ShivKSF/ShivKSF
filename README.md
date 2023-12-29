@@ -8,7 +8,7 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-ShivKSF.vercel.app/api/top-langs/?username=ShivKSF&show_icons=true&theme=synthwave&layout=compact" />
 
 <div  align="center" >
-## Sempre em busca de conhecimento
+# Sempre em busca de conhecimento
 
 #### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,py,bootstrap,sass,mysql,nodejs)](https://skillicons.dev)

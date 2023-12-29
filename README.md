@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Kaique!;" />
 </h1>
 
-<div>
+<div align="center" >
  <a href="https://github.com/shivksf/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivksf&theme=radical" />
 </a>

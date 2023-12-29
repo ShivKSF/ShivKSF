@@ -5,7 +5,8 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=shivksf&theme=radical&mode=weekly" />
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivksf)](https://github.com/shivksf/github-readme-stats)
+ 
+ ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shivksf)](https://github.com/shivksf/github-readme-stats)
  </div>
  
 <div  align="center">
